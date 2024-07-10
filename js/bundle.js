@@ -333,7 +333,7 @@ module.exports = tabs;
 
 function timer() {
 
-    let deadline = '2024-04-02';
+    let deadline = '2024-07-15';
 
     function getTimeRemaining(endtime) {
         let t = Date.parse(endtime) - Date.parse(new Date()),
